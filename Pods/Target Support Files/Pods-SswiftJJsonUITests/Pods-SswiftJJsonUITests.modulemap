@@ -1,0 +1,6 @@
+framework module Pods_SswiftJJsonUITests {
+  umbrella header "Pods-SswiftJJsonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
